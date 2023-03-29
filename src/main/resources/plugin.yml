@@ -1,0 +1,6 @@
+name: TutoPlugin
+version: '${project.version}'
+main: fr.jachou.tutoplugin.TutoPlugin
+api-version: 1.19
+authors: [Jachou]
+description: Un plugin de tutoriel
