@@ -4,3 +4,10 @@ main: fr.jachou.tutoplugin.TutoPlugin
 api-version: 1.19
 authors: [Jachou]
 description: Un plugin de tutoriel
+commands:
+  broadcast:
+    usage: /broadcast <message>
+    aliases: [message, annonce]
+  changegamemode:
+    usage: /changegamemode
+    aliases: [cgm]
